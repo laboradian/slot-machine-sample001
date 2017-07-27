@@ -8,3 +8,10 @@ Usage
 $ npm install
 $ npm run
 ```
+
+
+メモ
+------
+
+- Canvas は使っていません。
+
